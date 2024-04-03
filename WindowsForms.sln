@@ -7,6 +7,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Project1Winform", "Project1
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "project2", "project2\project2.csproj", "{1EDC332D-150F-4FF5-8B42-0AE78448A205}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Project4", "Project4\Project4.csproj", "{DE9521CA-87E0-4FC9-82E2-AE822B00291E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task1locate", "Task1locate\Task1locate.csproj", "{9FB77CAB-D02C-4291-8D83-B521A3FEBDE7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{1EDC332D-150F-4FF5-8B42-0AE78448A205}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1EDC332D-150F-4FF5-8B42-0AE78448A205}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1EDC332D-150F-4FF5-8B42-0AE78448A205}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE9521CA-87E0-4FC9-82E2-AE822B00291E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE9521CA-87E0-4FC9-82E2-AE822B00291E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE9521CA-87E0-4FC9-82E2-AE822B00291E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE9521CA-87E0-4FC9-82E2-AE822B00291E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9FB77CAB-D02C-4291-8D83-B521A3FEBDE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FB77CAB-D02C-4291-8D83-B521A3FEBDE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FB77CAB-D02C-4291-8D83-B521A3FEBDE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FB77CAB-D02C-4291-8D83-B521A3FEBDE7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
